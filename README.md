@@ -8,3 +8,7 @@ Tehnologiile pe care o să le folosim: PHP și CSS
 
 
 ![275490309_1131986440933497_5361289969983737495_n](https://user-images.githubusercontent.com/80482724/158078932-1b20f0b0-81eb-43ce-afaa-5d5fdd4ee2db.png)
+
+[Beautiful-Interiors-Macheta.pdf](https://github.com/bbiancadenisa/BeautifulInteriors/files/8312032/Beautiful-Interiors-Macheta.pdf)
+
+[Beautiful-Interiors-Tasks-estimation.xlsx](https://github.com/bbiancadenisa/BeautifulInteriors/files/8312033/Beautiful-Interiors-Tasks-estimation.xlsx)
